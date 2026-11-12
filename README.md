@@ -1,6 +1,7 @@
 # Kanban Task Board
 
 A responsive Kanban board for creating tasks, assigning team members, organizing work with labels, and tracking deadlines. Built with React, TypeScript, Vite, and Supabase.
+**Live application:** https://np-task-board-challenge.vercel.app/
 
 ## Features
 
